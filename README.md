@@ -1,4 +1,4 @@
 C_Programming_Related
 =====================
 
-Advanced C programming codes
+Class assignments on Advanced C programming

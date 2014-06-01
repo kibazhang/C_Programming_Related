@@ -1,0 +1,6 @@
+This program is an extended file based on Part1. What this program does, is that it read the decode bit series of the from the input file, after the header.
+And then it will find what the value stored in Huffman tree and then put it into another new file.
+The program is realized by another load input funtion, and decode function. 
+For the load input function, it will first find how many integers in the input file. And then use a loop to get all the input information.
+For the decode process, we can just use bit wise manupulation to solve the problem.First we use a variable to track the character length.Then, we can set the decimal length to binary series so that we will be able to get the track to get to the required character.
+The detailed functionality of every function can be found in the comment in the code.
